@@ -1,6 +1,6 @@
 body {
   background-image: url('http://www.cutestpaw.com/wp-content/uploads/2011/11/OIo.jpg');
-  background-position: top;	
+  background-position: top;
 }
 
 .header {
@@ -16,4 +16,9 @@ body {
 	color: #FFFFFF;
 	margin: 0px;
 	padding: 0px;
+}
+
+iframe {
+	position: fixed;
+	background-position: bottom;
 }
